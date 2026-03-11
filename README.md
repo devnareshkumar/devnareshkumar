@@ -2,7 +2,7 @@
 - 👀 I’m interested in writing code
 - 🌱 I’m currently learning azure devops
 - 💞️ I’m looking to collaborate on github open repos
-- 📫 How to reach me nk81212@gmail.com
+- 📫 How to reach me nareshkumarkatta9@gmail.com
 
 <!---
 devnareshkumar/devnareshkumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
